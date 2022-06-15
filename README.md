@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" width="200" src="https://i.postimg.cc/jSbsYbgK/octocat-1607474030530.png"> <samp> ꧁ hi! ꧂<br>
+  👨🏻‍💻 I do product things at Ansible <br> 
+  🌁 based in India <br>
+  📖 reading: All things Ansible, non-fiction worm <br> 
+<br><br><br><br><br>
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find
+me on twitter [@ompragash_v](https://www.twitter.com/ompragash_v) 💭
+<samp><img src="https://img.icons8.com/color/2x/linkedin.png" width="23">find
+me on linkedin [Ompragash](https://www.linkedin.com/in/ompragash/) 
 
-<!--
-**Ompragash/Ompragash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
