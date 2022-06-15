@@ -1,4 +1,4 @@
-<img align="left" width="600" src="https://i.postimg.cc/qqtYd08r/daftpunktocat-guy.gif"> <samp> ꧁ hi! ꧂<br>
+<img align="left" width="400" src="https://i.postimg.cc/qqtYd08r/daftpunktocat-guy.gif"> <samp> ꧁ hi! ꧂<br>
   👨🏻‍💻 I do product things at Ansible <br> 
   🌁 based in India <br>
   📖 reading: All things Ansible, non-fiction worm <br> 
