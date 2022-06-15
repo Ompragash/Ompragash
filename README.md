@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://i.postimg.cc/fyrvD9Mq/jetpacktocat.png"> <samp> ℍɪ <br>
+<img align="left" width="400" src="https://i.postimg.cc/fyrvD9Mq/jetpacktocat.png"> <samp> ℍɪ, <br>
   👨🏻‍💻 I do product things at Ansible <br> 
   🌁 based in India <br>
   📖 reading: All things Ansible, non-fiction worm <br> 
