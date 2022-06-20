@@ -6,7 +6,7 @@
 <samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@ompragash_v](https://www.twitter.com/ompragash_v) 💭 <img align="bottom" src="https://img.icons8.com/color/2x/linkedin.png" width="23">linkedin [Ompragash](https://www.linkedin.com/in/ompragash/) 
 
 📈 GitHub Statistics
-<div align="center" width="200">
+<div align="right" width="100">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://www.ompragash.com"><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Ompragash&show_icons=true&include_all_commits=true&theme=github_dark" alt="Ompragash's Statistics"/></a>
 </div>
