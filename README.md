@@ -10,4 +10,4 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://www.ompragash.com"><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Ompragash&show_icons=true&include_all_commits=true&theme=github_dark" alt="Ompragash's Statistics"/></a>
 </div>
-<br><br><br>
+
